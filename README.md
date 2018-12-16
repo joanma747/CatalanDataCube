@@ -38,3 +38,4 @@ A configuration file needs to be created. After that we can create the database 
 datacube -v system init
 
 ### How to use Sentinel2 L2A (Analysis Ready Data)
+Goto: [s2_level2a_granules folder](s2_level2a_granules/readme.md)
